@@ -1,0 +1,30 @@
+- ---
+- Pi: Faith in Chaos
+- There Will Be Blood
+- Reservoir Dogs
+- UHF (Weird Al Movie)
+- Galaxy Quest
+- Mel Brooks
+- Young Frankenstein
+- Blazing Saddles
+- High Anxiety
+- Clue
+- Army of Darkness
+- The Money Pit
+- The Prophecy
+- K-PAX
+- The Fifth Element
+- Constantine (2005 Keanu Reeves)
+- Face/Off
+- Any other Tarantino movie
+- Rocky Horror Picture Show
+- The Money Pit
+- The Birdcage (Robin Williams/Nathan Lane)
+- Edgar Wright
+- Shaun of the Dead
+- Baby Driver
+- The Worlds End
+- Scott Pilgrim vs The World
+- Hot Fuzz
+- The Dark Crystal
+---
