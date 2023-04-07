@@ -10,7 +10,6 @@
 - High Anxiety
 - Clue
 - Army of Darkness
-- The Money Pit
 - The Prophecy
 - K-PAX
 - The Fifth Element
