@@ -4,10 +4,10 @@
 - Reservoir Dogs
 - UHF (Weird Al Movie)
 - Galaxy Quest
-- Mel Brooks
-- - Young Frankenstein
-- - Blazing Saddles
-- - High Anxiety
+- **Mel Brooks**
+> Young Frankenstein
+> Blazing Saddles
+> High Anxiety
 - Clue
 - Army of Darkness
 - The Prophecy
@@ -19,11 +19,11 @@
 - Rocky Horror Picture Show
 - The Money Pit
 - The Birdcage (Robin Williams/Nathan Lane)
-- Edgar Wright
-- - Shaun of the Dead
-- - Baby Driver
-- - The Worlds End
-- - Scott Pilgrim vs The World
-- - Hot Fuzz
-- - The Dark Crystal
+- **Edgar Wright**
+> Shaun of the Dead
+> Baby Driver
+> The Worlds End
+> Scott Pilgrim vs The World
+> Hot Fuzz
+- The Dark Crystal
 ---
