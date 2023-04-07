@@ -5,9 +5,9 @@
 - UHF (Weird Al Movie)
 - Galaxy Quest
 - Mel Brooks
-- Young Frankenstein
-- Blazing Saddles
-- High Anxiety
+- - Young Frankenstein
+- - Blazing Saddles
+- - High Anxiety
 - Clue
 - Army of Darkness
 - The Prophecy
@@ -20,10 +20,10 @@
 - The Money Pit
 - The Birdcage (Robin Williams/Nathan Lane)
 - Edgar Wright
-- Shaun of the Dead
-- Baby Driver
-- The Worlds End
-- Scott Pilgrim vs The World
-- Hot Fuzz
-- The Dark Crystal
+- - Shaun of the Dead
+- - Baby Driver
+- - The Worlds End
+- - Scott Pilgrim vs The World
+- - Hot Fuzz
+- - The Dark Crystal
 ---
